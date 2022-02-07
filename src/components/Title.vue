@@ -8,12 +8,11 @@
 
 <script>
 export default {
-  name: 'Title',
- 
+  name: 'Title', 
 }
 </script>
 
 
-<style scoped lang="scss">
+<style scoped>
 
 </style>
